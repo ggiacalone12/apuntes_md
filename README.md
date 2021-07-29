@@ -1,7 +1,7 @@
 # apuntes_md
 Acá los apuntes  😎 de programador...
 
-hechos por juan p. giacalone para gaspar @JuanGiacalone
+hechos por juan p. giacalone para gaspar
 
 # Intro
 
