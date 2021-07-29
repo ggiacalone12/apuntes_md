@@ -1,34 +1,78 @@
 # Que es programar ?
+
 Programar es la acción de crear un **programa**
+
 # Que es un programa ? 
+
 Un programa son muchos **pasos** que tienen un resultado esperado 
+
 - ( Resultado como por ejemplo: la calculadora sumó 2*2 y el *resultado* fue 4. )
+
 - A Muchos pasos juntos se los llama: *Algoritmo*
+
 - Un programa es un conjunto de algoritmos que se ordenan de una manera para alcanzar el resultado esperado.
+
   - Ejemplos de algoritmo:
+  
     - _Lavar los platos:_
+    
       - 1° Agarrar esponja
+      
       - 2° Prender canilla,calienta
+      
       - 3° Mojar esponja
+      
       - 4° Enjabonar esponja
-      - 5° Agarrar utensillo_de_cocina
+      
+      - 5° Agarrar utensillo_de_cocina (nuestra primer variable, en matemática se le dice tambíen X... X+2 es 4 si solo sí YO digo {programo} que X es 2..)
+      
       - 6° Mientras que el *plato esté sucio* : Frotar esponja y utensillo_de_cocina
-  - El algoritmo anterior en *pseudocódigo* (pseudocodigo se le dice a estas palabras que usamos recien pero que utilizan formás de mencionar **lógica y sintaxis*.) 
-  - Pseudo código "NIVEL Orientado a Objetos (como se usa hoy en dia en lenguajes de programación)":
+      
+      
+
+  
+  
+  - Algoritmo BASE, el mas elemental aprendemos a quitar cosas que usamos en el lenguaje y que usamos al programar
+  
+   - Agarrar (esponja)
+   - Prender (canilla)
+   - ....
+   - Frotar(esponja,utensillo_de_cocina)
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+    - El algoritmo anterior en *pseudocódigo* (pseudocodigo se le dice a estas palabras que usamos recien pero que utilizan formás de mencionar **lógica y sintaxis*.) (Logica es decir esto hace aquello, tiene que ver mucho con verdaderos y falsos {los programadores les decimos 1 a verdadero y 0 a los falsos...} y 
+  sintaxis son las FORMAS de "escribir" de cada LENGUAJE DE PROGRAMACIóN
+  
+  - Pseudo código "NIVEL Orientado a Objetos (como se usa hoy en dia en lenguajes de programación como JAVA {te suena el minecraft pa ????})":
 
 
-     Herramienta            /// Herramienta es nuestra CLASE -  Osea puedo configurarle todas las VARIABLES (Variable aca seria cualquier cosa que sea una herramienta...) que quiera
+     Herramienta            /// Herramienta es nuestra CLASE -  Osea puedo configurarle todas las VARIABLES (Variable aca seria cualquier cosa que sea una                                    ///    herramienta...) que quiera... {Puedo lavar los platos hasta con una piedra si quiero, o un pico de diamond pa...}
     {
-        public numero;
-        public nombre;
+        public numero;   /// los programadores solemos usar NUMEROS para ordenar nuestros OBJETOS 
+                        /// (el pico de diamond con +8% de algun encantamiento X es un OBJETO especifico)
+                        
+                        
+        public nombre;  /// podemos ingresar y hacer un programa conectando nuestra...  
+                         ////    BASE DE DATOS (lugar donde se guarda información en FILAS { es el OBJETO } y  y COLUMNAS {numero y nombre... 
+                                            las PROPIEDADES que  quiera} )        
+                          /// 
         
        herramienta(nombre) { this.numero = numero_aleatorio()
                                                                 } /// con esto puedo **modificar** el numero y nombre de utensillos.
                   
 
-    Utensillo
+    Utensillo            ///  Un utensillo puede ser un pedazo de madera finito en el maincra... xd
    {
-        public numero;
+        public numero;  
         public nombre;
         
         Utensillo() { }   /// con esto puedo **modificar** el numero y nombre de utensillos.
