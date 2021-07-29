@@ -1,0 +1,57 @@
+# Que es programar ?
+Programar es la acción de crear un **programa**
+# Que es un programa ? 
+Un programa son muchos **pasos** que tienen un resultado esperado 
+- ( Resultado como por ejemplo: la calculadora sumó 2*2 y el *resultado* fue 4. )
+- A Muchos pasos juntos se los llama: *Algoritmo*
+- Un programa es un conjunto de algoritmos que se ordenan de una manera para alcanzar el resultado esperado.
+  - Ejemplos de algoritmo:
+    - _Lavar los platos:_
+      - 1° Agarrar esponja
+      - 2° Prender canilla,calienta
+      - 3° Mojar esponja
+      - 4° Enjabonar esponja
+      - 5° Agarrar utensillo_de_cocina
+      - 6° Mientras que el *plato esté sucio* : Frotar esponja y utensillo_de_cocina
+  - El algoritmo anterior en *pseudocódigo* (pseudocodigo se le dice a estas palabras que usamos recien pero que utilizan formás de mencionar **lógica y sintaxis*.) 
+  - Pseudo código "NIVEL Orientado a Objetos (como se usa hoy en dia en lenguajes de programación)":
+
+
+     Herramienta            /// Herramienta es nuestra CLASE -  Osea puedo configurarle todas las VARIABLES (Variable aca seria cualquier cosa que sea una herramienta...) que quiera
+    {
+        public numero;
+        public nombre;
+        
+       herramienta(nombre) { this.numero = numero_aleatorio()
+                                                                } /// con esto puedo **modificar** el numero y nombre de utensillos.
+                  
+
+    Utensillo
+   {
+        public numero;
+        public nombre;
+        
+        Utensillo() { }   /// con esto puedo **modificar** el numero y nombre de utensillos.
+                          /// esto es para que nuestro programa pueda ser ADAPTABLE a cualquier tipo de Utensillo que UTILIZEMOS (los programas se piensan con las acciones!... y se APLICAN a cualquier
+                          OBJETO) (tenedor, cuchillo, plato etc.)
+        
+    }
+  
+  
+   inicio main   /// (así le dicen los programadores al lo primero que se pone para el HolaMundo )
+   
+   Herramienta miHerramienta = new herramienta(esponja)                    /// (acá estoy dandole *valor* a la **variable** miHeramienta 
+   
+   Utensillo miUtensillo = new utensillo(plato)                                    /// lo mismo para el plato  
+  
+  lavar_platos()                                          /// aca llamo a la **función** lavar los platos, mi tarea (te ordeno que laves los platos xd)
+  
+     fin
+     
+                                                          //// aca abajo escribimos las *funciones* que utilizamos arriba
+     
+     void lavar_platos (Herramienta A, Utensillo B)
+
+
+
+# 
