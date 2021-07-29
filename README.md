@@ -15,7 +15,7 @@ Para copiar este archivo y **Repositorio** llamado apuntes_md, abrimos GITBASH. 
 
 
   - **git status**
-      - Con este comando consultamos el estado (nos interesa saber si tiene CAMBIOS comparado lo que está en github) de nuestra carpeta (si modificamos o agregamos algo, nos deberia aparecer, si hay cambios podemos pasar al siguiente comando) 
+      - Con este comando consultamos el estado (nos interesa saber si tiene CAMBIOS comparado lo que está en github) de nuestra carpeta (si modificamos o agregamos algo, nos deberia aparecer; solo si hay cambios podemos y necesitamos pasar al siguiente comando) 
      
   - **git add . **     //// 
       - add significa agregar y el punto " . " significa todo lo que está en la carpeta donde estoy parado.
