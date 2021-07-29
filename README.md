@@ -1,6 +1,8 @@
 # apuntes_md
 Acá los apuntes  😎 de programador...
 
+hechos por juan p. giacalone para gaspar
+
 # Intro
 
 GIT es una herramienta para programar y subir o guardar lo que programamos, en la nube y con comandos piola.
